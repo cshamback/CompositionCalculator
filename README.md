@@ -5,3 +5,6 @@ This program generates every single combination of light, medium, and dark squar
 ## Limitations
 The program does not handle user input, so the user is limited to light, medium, and dark grays. The user also cannot choose the size of the grid (except by hardcoding it in the `ref` variable in `calc.js`. 
 The grids can only be square, and must all be the same size.
+
+## To Run
+Download all 3 files. Store them in a single folder on your machine. Navigate to this folder and click on `calc.js`. If asked, choose a browser to run this program on (Chrome preferred.) No user input is needed. Enjoy :)
